@@ -1,0 +1,60 @@
+.title
+{
+  display:flex;
+  justify-content:center;
+  background-color:blanchedalmond;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  
+}
+.content
+{
+  border:2px solid black;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+  
+}
+.col-5
+{
+  display:flex;
+  justify-content:center;
+ 
+ 
+}
+.col-12
+{
+    display:flex;
+    justify-content:center;
+     background-color:rgba(235, 209, 13, 0.82);
+}
+.col-4
+{
+  display:flex;
+  justify-content:center;
+  
+ 
+}
+.col-3
+{
+  display:flex;
+  justify-content:center;
+   
+}
+#child2
+{
+ 
+  background-color: black;
+  
+}
+#col5{background-color:grey;}
+#col6{background-color:grey;}
+#col7{background-color:grey;}
+#col8{background-color:grey;}
+#col16{background-color:grey;}
+#col13{background-color:grey;}
+#col14{background-color:grey;}
+#col15{background-color:grey;}
